@@ -56,3 +56,6 @@ function showDetails(phone)
 {
     document.getElementById("phone-title").innerText = phone.name;
 }
+
+
+
